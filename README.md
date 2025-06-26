@@ -39,9 +39,7 @@ This project analyses UK import exposure to global macroeconomic risks by integr
 
 ## Example Output
 
-(Insert final table screenshot)
-
-[Download Sample Output CSV](sample_data/sample_trade_risk_output.csv)
+[Download Sample Output CSV](./data/sample_trade_risk_output.csv)
 
 ## Automation (Python)
 
