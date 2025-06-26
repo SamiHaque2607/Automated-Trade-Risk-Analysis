@@ -62,12 +62,11 @@ python main_pipeline.py
 |--------------------------------------------|-------------------------------------------------------|
 | `main_pipeline.py`                         | Full Python script to run the SQL pipeline & save CSV |
 | `sql/trade_risk_score.sql`                 | SQL script that computes Trade Risk Score             |
-| `sample_data/sample_trade_risk_output.csv` | Example output                                        |
-| `images/final_output.png`                  | Screenshot of final table (placeholder)               |
+| `sample_trade_risk_output.csv` | Example output                                        |
 | `requirements.txt`                         | Required Python libraries                             |
 
 ## Future Improvements
 
 - Connect live IMF/World Bank API for monthly macro updates
-- Add frontend dashboard via Streamlit or Tableau Public
+- Add frontend dashboard via Tableau
 - Build alert system when a country risk score exceeds threshold
