@@ -37,9 +37,12 @@ This project analyses UK import exposure to global macroeconomic risks by integr
 ### Step 5: Add risk bands
 - Extreme Risk, High Risk, Moderate, Low Risk — based on threshold cutoffs.
 
-## Example Output
+## Sample Output
 
-[Download Sample Output CSV](./data/sample_trade_risk_output.csv)
+Click below to view the full trade risk output CSV:
+
+[View sample_trade_risk_output.csv](./sample_trade_risk_output.csv)
+
 
 ## Automation (Python)
 
